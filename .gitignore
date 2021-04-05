@@ -12,4 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-/app/src/main/java/com/dfg/weatherapp/Constants.kt
+app/src/main/java/com/dfg/weatherapp/Constants.kt
